@@ -1,0 +1,4 @@
+keras_facenet
+jsonpickle
+flask
+flask-ngrok
